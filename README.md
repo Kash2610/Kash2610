@@ -3,7 +3,7 @@ Hello! I'm Kash, aka @Kash2610 👋
 
 Highly motivated and innovative professional with a passion for developing and implementing cutting-edge signal processing algorithms. With a strong background in crafting creative solutions to real-world problems, I excel at driving projects from concept to reality.
 
-Passion
+Passion  
 Developing innovative signal processing algorithms
 Pushing the boundaries of what's possible in deep learning-based speech processing
 Collaborating with like-minded individuals to advance the field
